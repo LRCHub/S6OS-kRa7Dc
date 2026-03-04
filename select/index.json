@@ -1,0 +1,312 @@
+{
+  "version": 1,
+  "base_track": "You May Dream",
+  "base_artist": "LISP",
+  "createdAt": "2026-03-04T10:56:20.704563Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "You May Dream -HALCALI ver.-",
+      "artist": "HALCALI",
+      "has_synced": false,
+      "path": "select/01_You_May_Dream_-HALCALI_ver.-_HALCALI.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "You May Dream ‐HALCALI ver.‐",
+      "artist": "HALCALI",
+      "has_synced": false,
+      "path": "select/02_You_May_Dream_‐HALCALI_ver.‐_HALCALI.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "YOU MAY DREAM",
+      "artist": "GLAY",
+      "has_synced": true,
+      "path": "select/03_YOU_MAY_DREAM_GLAY.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "You May Dream",
+      "artist": "LISP",
+      "has_synced": true,
+      "path": "select/04_You_May_Dream_LISP.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "You May Dream",
+      "artist": "Nana Kitade",
+      "has_synced": false,
+      "path": "select/05_You_May_Dream_Nana_Kitade.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "You　May　Dream",
+      "artist": "LISP",
+      "has_synced": true,
+      "path": "select/06_You_May_Dream_LISP.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "You May Dream",
+      "artist": "北出菜奈",
+      "has_synced": false,
+      "path": "select/07_You_May_Dream_北出菜奈.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "You May Dream",
+      "artist": "Lisp",
+      "has_synced": false,
+      "path": "select/08_You_May_Dream_Lisp.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "You May Die (Intro)",
+      "artist": "OutKast",
+      "has_synced": true,
+      "path": "select/09_You_May_Die_(Intro)_OutKast.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Although You May Laugh",
+      "artist": "David E. Sugar",
+      "has_synced": true,
+      "path": "select/10_Although_You_May_Laugh_David_E._Sugar.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Enjoy Your Worries, You May Never Have Them Again",
+      "artist": "The Books",
+      "has_synced": false,
+      "path": "select/11_Enjoy_Your_Worries,_You_May_Never_Have_Them_Again_The_Books.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "You May Be Right",
+      "artist": "Billy Joel",
+      "has_synced": true,
+      "path": "select/12_You_May_Be_Right_Billy_Joel.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "You May Be Gone",
+      "artist": "Paul Hardcastle",
+      "has_synced": true,
+      "path": "select/13_You_May_Be_Gone_Paul_Hardcastle.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "If You Have a Cross to Bear You May as Well Use It as a Crutch",
+      "artist": "Moloko",
+      "has_synced": false,
+      "path": "select/14_If_You_Have_a_Cross_to_Bear_You_May_as_Well_Use_It_as_a_Crutch_Moloko.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "You May Know Him",
+      "artist": "Cat Power",
+      "has_synced": true,
+      "path": "select/15_You_May_Know_Him_Cat_Power.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Where Ever You May Go",
+      "artist": "Mellowdrone",
+      "has_synced": true,
+      "path": "select/16_Where_Ever_You_May_Go_Mellowdrone.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "You May Be Blue",
+      "artist": "Vetiver",
+      "has_synced": true,
+      "path": "select/17_You_May_Be_Blue_Vetiver.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "You May See Me",
+      "artist": "Grace Potter & The Nocturnals",
+      "has_synced": true,
+      "path": "select/18_You_May_See_Me_Grace_Potter_&_The_Nocturnals.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Wherever You May Go",
+      "artist": "David Coverdale",
+      "has_synced": false,
+      "path": "select/19_Wherever_You_May_Go_David_Coverdale.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "You May Be Right (Glee Cast Version)",
+      "artist": "Glee Cast",
+      "has_synced": true,
+      "path": "select/20_You_May_Be_Right_(Glee_Cast_Version)_Glee_Cast.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "You may they",
+      "artist": "Kaho Nakamura",
+      "has_synced": true,
+      "path": "select/21_You_may_they_Kaho_Nakamura.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "You May Be Right",
+      "artist": "Billy Joel",
+      "has_synced": true,
+      "path": "select/22_You_May_Be_Right_Billy_Joel.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "You May Be Right",
+      "artist": "Billy Joel",
+      "has_synced": true,
+      "path": "select/23_You_May_Be_Right_Billy_Joel.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Even if You Dream",
+      "artist": "Wang Chung",
+      "has_synced": true,
+      "path": "select/24_Even_if_You_Dream_Wang_Chung.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Live as You Dream",
+      "artist": "Beth Orton feat. Victor Van Vught",
+      "has_synced": true,
+      "path": "select/25_Live_as_You_Dream_Beth_Orton_feat._Victor_Van_Vught.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Live As You Dream",
+      "artist": "Beth Orton",
+      "has_synced": true,
+      "path": "select/26_Live_As_You_Dream_Beth_Orton.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Do You Dream of Me?",
+      "artist": "Tiamat",
+      "has_synced": true,
+      "path": "select/27_Do_You_Dream_of_Me_Tiamat.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "For What You Dream Of (feat. KYO)",
+      "artist": "Bedrock",
+      "has_synced": true,
+      "path": "select/28_For_What_You_Dream_Of_(feat._KYO)_Bedrock.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "For What You Dream Of",
+      "artist": "Bedrock featuring KYO",
+      "has_synced": true,
+      "path": "select/29_For_What_You_Dream_Of_Bedrock_featuring_KYO.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Innocent When You Dream (78)",
+      "artist": "Tom Waits",
+      "has_synced": true,
+      "path": "select/30_Innocent_When_You_Dream_(78)_Tom_Waits.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Innocent when you dream",
+      "artist": "Tom Waits",
+      "has_synced": true,
+      "path": "select/31_Innocent_when_you_dream_Tom_Waits.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Do You Dream of Being Somebody",
+      "artist": "Murray McLauchlan",
+      "has_synced": false,
+      "path": "select/32_Do_You_Dream_of_Being_Somebody_Murray_McLauchlan.txt"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "When You Dream",
+      "artist": "Barenaked Ladies feat. David Leonard",
+      "has_synced": true,
+      "path": "select/33_When_You_Dream_Barenaked_Ladies_feat._David_Leonard.lrc"
+    },
+    {
+      "id": "lrclib_34",
+      "source": "lrclib",
+      "title": "When You Dream",
+      "artist": "Barenaked Ladies",
+      "has_synced": true,
+      "path": "select/34_When_You_Dream_Barenaked_Ladies.lrc"
+    },
+    {
+      "id": "lrclib_35",
+      "source": "lrclib",
+      "title": "Do You Dream of Armageddon?",
+      "artist": "Architects",
+      "has_synced": true,
+      "path": "select/35_Do_You_Dream_of_Armageddon_Architects.lrc"
+    },
+    {
+      "id": "lrclib_36",
+      "source": "lrclib",
+      "title": "Send Me the Pillow You Dream On",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/36_Send_Me_the_Pillow_You_Dream_On_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_37",
+      "source": "lrclib",
+      "title": "All That You Dream",
+      "artist": "Linda Ronstadt",
+      "has_synced": true,
+      "path": "select/37_All_That_You_Dream_Linda_Ronstadt.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "You May Dream",
+      "artist": "Lisp",
+      "has_synced": false,
+      "path": "select/pl_01_You_May_Dream_Lisp.txt"
+    }
+  ]
+}
